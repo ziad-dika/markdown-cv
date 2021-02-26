@@ -20,3 +20,7 @@ Programming Languages
 
 Other
 ---------------------------------------
+Human languages:
+Arabic (Native)
+English
+French
